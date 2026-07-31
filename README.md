@@ -7,7 +7,7 @@ I build developer tooling for the AI era — CLIs, profilers, and benchmarks tha
 ## What I'm building
 
 ### 🔍 [llm-cost-profiler](https://github.com/BuildWithAbid/llm-cost-profiler) — Find the money you're burning on LLM APIs
-Two lines of code, zero config. Wraps your OpenAI or Anthropic client and gives you instant visibility into spend by feature, hotspots by file, retry waste, context bloat, and model downgrade opportunities. Found **$1,240/month in waste** on my own project in the first run.
+Two lines of code, zero config. Wraps your OpenAI or Anthropic client and gives you instant visibility into spend by feature, hotspots by file, retry waste, context bloat, and model downgrade opportunities.
 
 ```python
 from llm_cost_profiler import wrap
@@ -27,7 +27,7 @@ CLI that sends the same prompt to OpenAI, Anthropic, Gemini, and Groq in paralle
 llm-bench run "Explain vector databases" --models gpt-4o,claude-sonnet-4-6,gemini-2.5-flash
 ```
 
-`npm install -g llm-bench` · TypeScript · MIT
+TypeScript · MIT
 
 ---
 
