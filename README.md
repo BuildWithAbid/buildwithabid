@@ -1,6 +1,6 @@
 # Hi, I'm Abid 👋
 
-I build developer tooling for the AI era — CLIs, profilers, and benchmarks that make working with LLMs less painful and more predictable. Vibe coder using Claude Code and OpenAI Codex.
+I build developer tooling for the AI era — CLIs, profilers, and benchmarks that make working with LLMs less painful and more predictable.
 
 ---
 
